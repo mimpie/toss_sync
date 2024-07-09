@@ -1,6 +1,6 @@
 # toss_assemble
 
-A new Flutter project.
+Flutter를 학습하며 toss 주식 페이지를 구현해보았습니다.
 
 ## Getting Started
 
